@@ -1,0 +1,6 @@
+{
+  "name": "Excelerate",
+  "description": "Complete high-performance Member, Trainer, and Admin ecosystem for Life Fitness Gym.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
